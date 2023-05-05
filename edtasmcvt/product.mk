@@ -1,0 +1,4 @@
+PRODUCT   = edtasmcvt
+VERSION   = 0.0.1
+TARBALL   = $(PRODUCT)-$(VERSION).tar
+TARBALLGZ = $(TARBALL).gz
